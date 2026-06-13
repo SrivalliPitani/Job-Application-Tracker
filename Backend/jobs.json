@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1781377390812,
+    "company": "Google",
+    "role": "Data Analyst",
+    "location": "Bangalore",
+    "priority": "High",
+    "notes": "Applied from LinkedIn",
+    "status": "Applied",
+    "date": "14/6/2026"
+  },
+  {
+    "id": 1781377469334,
+    "company": "INCREFF",
+    "role": "Intern",
+    "location": "Bangalore",
+    "priority": "High",
+    "notes": "Selected From College",
+    "status": "Applied",
+    "date": "14/6/2026"
+  }
+]
